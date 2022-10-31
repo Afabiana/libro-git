@@ -1,2 +1,6 @@
 nuevo archivo en rama test
 cambio en test>>testlocal
+linea en conflicto
+o eso espero
+porfa que haya conflicto
+o me mword
