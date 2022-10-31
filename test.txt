@@ -1,2 +1,6 @@
 nuevo archivo en rama test
 cambio en test>>testlocal
+escribo
+desde el remoto
+con githubdev
+hay que agarrar la pala
