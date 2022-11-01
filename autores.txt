@@ -33,3 +33,10 @@ tiene que
 estar en 
 rama 
 test
+
+chusmeando
+que pasa
+si meto 
+cambios en master
+despues de crear
+la rama
