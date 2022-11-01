@@ -1,3 +1,6 @@
+otro conflicto mas desde local
+que se rompa todo
+vamosss
 archivo con el mismo nombre
 que el que cree en el remoto
 solo que en mi repo local
