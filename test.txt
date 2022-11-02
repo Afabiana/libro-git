@@ -11,5 +11,3 @@ esto
 tambien
 se
 borra
-
-se va
