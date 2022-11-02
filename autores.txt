@@ -36,6 +36,3 @@ test
 
 tak
 taki
-
-ultimo
-cambio
